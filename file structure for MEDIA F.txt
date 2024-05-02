@@ -1,0 +1,189 @@
+.
+└── F:/
+    ├── IMAGE/
+    │   ├── Check
+    │   ├── Photos
+    │   ├── School
+    │   ├── Screenshorts
+    │   ├── SEND
+    │   ├── MEMES
+    │   └── Wallpaper/
+    │       ├── anime
+    │       ├── asthatic
+    │       ├── best
+    │       ├── illustration
+    │       ├── mobile
+    │       └── motivation
+    ├── Music
+    ├── Check
+    ├── Operating System/
+    │   ├── -ReviOS.iso
+    │   ├── -Arch Linux.iso
+    │   └── -KMSPico.zip
+    └── Tutorial/
+        ├── Networking
+        ├── Net Ninja/
+        │   └── Godot
+        ├── Lanuage/
+        │   ├── Go Language
+        │   ├── Java Placement/
+        │   │   ├── Apna Collage
+        │   │   └── DSA Kunal
+        │   └── Python
+        ├── Course/
+        │   └── System Design
+        ├── Android Development/
+        │   ├── CS50
+        │   └── Flutter
+        └── Web Development/
+            ├── Backend/
+            │   ├── One Short
+            │   ├── Chai aur Backend
+            │   ├── MongoDB
+            │   ├── Graphql
+            │   ├── Redis
+            │   └── Sherians
+            ├── Frontend/
+            │   ├── CSS Frameworks
+            │   ├── Animation
+            │   ├── Next.js
+            │   └── React/
+            │       ├── Chai aur react
+            │       ├── Net Ninja React
+            │       ├── One short
+            │       ├── React router
+            │       └── Sheryians Coding School
+            ├── Interview Question /
+            │   └── Namaste Javascript
+            ├── Javascript/
+            │   └── Sheryians Coding School
+            ├── One timer
+            ├── Piyush Garg
+            ├── Project
+            └── Typescript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F:
+  IMAGE
+     Check
+     Photos
+     School
+     Screenshorts
+     SEND
+    MEMES
+    Wallpaper
+      anime
+      asthatic
+      best
+      illustration
+      mobile
+      motivation
+  Music
+  Check
+  Operating System
+    -ReviOS.iso
+    -Arch Linux.iso
+    -KMSPico.zip
+  Tutorial
+    Networking
+    Net Ninja
+      Godot
+    Lanuage
+      Go Language
+      Java Placement
+        Apna Collage
+        DSA Kunal
+      Python
+    Course
+      System Design
+    Android Development
+      CS50
+      Flutter
+    Web Development
+      Backend
+        One Short
+        Chai aur Backend
+        MongoDB
+        Graphql
+        Redis
+        Sherians
+      Frontend
+        CSS Frameworks
+        Animation
+        Next.js
+        React
+          Chai aur react
+          Net Ninja React
+          One short
+          React router
+          Sheryians Coding School
+      Interview Question 
+        Namaste Javascript
+      Javascript
+        Sheryians Coding School
+      One timer
+      Piyush Garg
+      Project
+      Typescript
+      
+
+https://tree.nathanfriend.io/?s=(%27opHs!(%27fancy_~fullPath!false~trailingSlash_~rootDot_)~source!(%27source!%27F%3A6IMAGE2%20Check2%20Photos28chool28creenshorts28END2MEMES2WallpapZ3anime3asthatic3best3illustraH3mobile3motivaH6Music6Check6OpZating8ystem2-ReviOS.iso2-Arch%20Linux.iso2-KMSPico.zip6Tutorial2Networking2X3Godot2Lanuage3Go%20Language3Java%20Placement7Apna%20Collage7DSA%20Kunal3Python2Course3System%20Design2Android9CS503FluttZ2Web9Backend7One8hort7UBackend7MongoDB7Graphql7Redis7ShZians3Frontend7CSS%20Frameworks7AnimaH7Next.js7RYUrYX%20RYOne%20short7*React%20routZ74IntZview%20QuesH%207Namaste%20JavaVJavaV4One%20timZ3Piyush%20Garg3Project3TypeV%27)~vZsion!%271%27)*%20%2026*32*4*ShZyians%20Coding8chool36%5Cn*73*8%20S9%20Development3HtionUChai%20aur%20Vscript3XNet%20NinjaYeact7*Zer_!true%01_ZYXVUH9876432*

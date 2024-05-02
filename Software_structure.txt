@@ -1,0 +1,366 @@
+├── /
+│   ├── Anime/
+│   │   ├── Attack on TitanSeason 4 Part 2/
+│   │   ├── Clannad Season 1/
+│   │   │   ├── [Kayoanime] Clannad (Season 1) [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)/
+│   │   ├── Clannad Season 2/
+│   │   ├── Couple Of Cacoon/
+│   │   ├── Darling in the FranXX/
+│   │   ├── Date A Live Season 1/
+│   │   ├── Date A Live Season 2/
+│   │   ├── Date A Live Season 3/
+│   │   ├── Date A Live Season 4/
+│   │   ├── Devilman Crybaby/
+│   │   ├── One Piece/
+│   │   ├── Summer Time Rendring/
+│   │   ├── Takt Op Destiny/
+│   │   ├── The Rising of the Shield Hero Season 2/
+│   ├── Config.Msi/
+│   ├── Docs/
+│   │   ├── Berserk/
+│   │   ├── Linux/
+│   │   ├── Logos/
+│   │   ├── Text Files/
+│   ├── Software/
+│   │   ├── Programms/
+│   │   │   ├── cheetsheet/
+│   │   │   │   ├── Backend/
+│   │   │   │   ├── Languages/
+│   │   │   │   ├── PDF/
+│   │   │   │   │   ├── MERN/
+│   │   │   │   ├── React/
+│   │   │   ├── Course/
+│   │   │   │   ├── Chai aur code/
+│   │   │   │   ├── DSA/
+│   │   │   │   ├── GSAP/
+│   │   │   │   ├── Language/
+│   │   │   │   │   ├── Go lang/
+│   │   │   │   │   ├── html/
+│   │   │   │   │   ├── Java/
+│   │   │   ├── JS Framework/
+│   │   │   ├── Project/
+│   │   │   │   ├── Buckshot Roulette/
+│   │   │   │   │   ├── Assets/
+│   │   │   │   │   ├── script/
+│   │   │   │   ├── Complete/
+│   │   │   │   │   ├── News app/
+│   │   │   │   │   ├── Small Project/
+│   │   │   │   │   ├── YoutubeAddSkipper/
+│   │   │   │   ├── Game changer/
+│   │   │   │   │   ├── .firebase/
+│   │   │   │   │   ├── Project 1/
+│   │   │   │   │   ├── Project2/
+│   │   │   │   │   ├── Shery.js/
+│   │   │   │   ├── Half ASS Complete/
+│   │   │   │   │   ├── Beat Looper/
+│   │   │   │   ├── polishpixie/
+│   │   │   │   │   ├── polish/
+│   │   │   │   │   ├── public/
+│   │   │   │   │   ├── src/
+│   │   │   │   ├── RawScript/
+│   │   │   │   │   ├── code_generators/
+│   │   │   │   │   ├── doc/
+│   │   ├── SetUp/
+│   │   │   ├── Basics/
+│   │   │   ├── Coding/
+│   │   │   │   ├── IDE/
+│   │   │   │   │   ├── Jett Brains/
+│   │   │   ├── Games/
+│   │   │   │   ├── Big/
+│   │   │   │   │   ├── cyberpunk/
+│   │   │   │   │   ├── Rise of the tom rider/
+│   │   │   │   ├── Done/
+│   │   │   ├── MUSIC/
+│   │   │   ├── Tools/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+├── /
+│   ├── Anime/
+│   │   ├── Attack on TitanSeason 4 Part 2/
+│   │   │   ├── Shingeki No Kyojin - 76.mkv/
+│   │   │   ├── Shingeki No Kyojin - 77.mkv/
+│   │   │   ├── Shingeki No Kyojin - 78.mkv/
+│   │   ├── Clannad Season 1/
+│   │   │   ├── [Kayoanime] Clannad (Season 1) [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)/
+│   │   │   │   ├── [Kayoanime] Clannad - S01E01.mkv/
+│   │   │   │   ├── [Kayoanime] Clannad - S01E02.mkv/
+│   │   ├── Clannad Season 2/
+│   │   │   ├── [Kayoanime] Clannad (Season 2) [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)-20230830T181108Z-001.zip/
+│   │   │   ├── [Kayoanime] Clannad (Season 2) [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)-20230830T181108Z-002.zip/
+│   │   ├── Couple Of Cacoon/
+│   │   │   ├── Kakkou no Iinazuke - S01E18.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E19.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E20.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E21.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E22.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E23.mkv/
+│   │   │   ├── Kakkou no Iinazuke - S01E24.mkv/
+│   │   ├── Darling in the FranXX/
+│   │   │   ├── Darling in the FranXX - 01.mkv/
+│   │   │   ├── Darling in the FranXX - 02.mkv/
+│   │   │   ├── Darling in the FranXX - 03.mkv/
+│   │   ├── Date A Live Movie - Mayuri Judgement.mkv/
+│   │   ├── Date A Live Season 1/
+│   │   │   ├── Date A Live - 01.mkv/
+│   │   │   ├── Date A Live - 02.mkv/
+│   │   │   ├── Date A Live - 03.mkv/
+│   │   ├── Date A Live Season 2/
+│   │   │   ├── Date A Live S2 - 01.mkv/
+│   │   │   ├── Date A Live S2 - 02.mkv/
+│   │   │   ├── Date A Live S2 - 03.mkv/
+│   │   ├── Date A Live Season 3/
+│   │   │   ├── Date A Live Season 03 - 01.mkv/
+│   │   │   ├── Date A Live Season 03 - 02.mkv/
+│   │   │   ├── Date A Live Season 03 - 03.mkv/
+│   │   ├── Date A Live Season 4/
+│   │   │   ├── Date A Live - S04E01.mkv
+│   │   │   ├── Date A Live - S04E02.mkv
+│   │   │   ├── Date A Live - S04E03.mkv
+│   │   ├── Devilman Crybaby/
+│   │   │   ├── Devilman Crybaby - S01E01.mkv
+│   │   │   ├── Devilman Crybaby - S01E02.mkv
+│   │   │   ├── Devilman Crybaby - S01E03.mkv
+│   │   ├── Hotarubi no Mori e (Into the Forest of Fireflies' Light) [BD 1080p x265 10bit Opus].mkv/
+│   │   ├── One Piece/
+│   │   │   ├── [Kayoanime] One Piece - 1025.mkv
+│   │   │   ├── [Kayoanime] One Piece - 1026.mkv
+│   │   │   ├── [Kayoanime] One Piece - 1027.mkv
+│   │   ├── Real Steel (2011) 1080p 10bit Bluray  [DD 5.1 Hindi  DD 5.1 English] x265UHDMovies [2.92GB].mkv
+│   │   ├── Spider-Man.Across.the.Spider-Verse.2023.1080p.BluRay.Hindi.English.ESubs.Vegamovies.to.mkv
+│   │   ├── Spider-Man.Into.The.Spider-Verse.mp4
+│   │   ├── Summer Time Rendring/
+│   │   │   ├── Summertime Render S01-20230528T121312Z-001.zip
+│   │   │   ├── Summertime Render S01-20230528T121312Z-002.zip
+│   │   │   ├── Summertime Render S01-20230528T121312Z-007.zip
+│   │   ├── Takt Op Destiny/
+│   │   │   ├── Takt Op. Destiny - S01E01.mkv
+│   │   │   ├── Takt Op. Destiny - S01E02.mkv
+│   │   │   ├── Takt Op. Destiny - S01E03.mkv
+│   │   ├── The Place Promised in Our Early Days (2004) [1080p] [DUAL-AUDIO] [x265] [10bit].mkv
+│   │   ├── The Rising of the Shield Hero Season 2/
+│   │   │   ├── The Rising of the Shield Hero - S02E01.mkv
+│   │   │   ├── The Rising of the Shield Hero - S02E02.mkv
+│   │   │   ├── The Rising of the Shield Hero - S02E03.mkv
+│   │   ├── Tonikaku Kawaii S2 - 11.mkv/
+│   │   ├── Tonikaku Kawaii S2 - 12.mkv/
+│   │   ├── [Kayoanime] Hello World [BD 1080p][HEVC x265 10bit][Eng-Subs].mkv
+│   │   ├── [Kayoanime] Kimi no Na Wa. (Your Name.) [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs].mkv
+│   │   ├── [Kayoanime] Tenki no Ko (Weathering with You) [BD 1080p][HEVC x265 10bit][Dual Audio][Multi-Subs]-001.mkv
+│   ├── Config.Msi/
+│   ├── Docs/
+│   │   ├── 4chain.PNG/
+│   │   ├── Berserk/
+│   │   │   ├── Berserk v01 (2003).pdf/
+│   │   │   ├── Berserk v02 (2004).pdf/
+│   │   │   ├── Berserk v03 (2004).pdf/
+│   │   ├── Built With Science Full Body Home Workout PDF.pdf
+│   │   ├── Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition) [EnglishOnlineClub.com].pdf
+│   │   ├── Ikigai-_Libtoon.com_.pdf
+│   │   ├── Linux/
+│   │   │   ├── arch install.PNG
+│   │   │   ├── hyperland install.PNG
+│   │   │   ├── what i installed.PNG
+│   │   ├── Logos/
+│   │   │   ├── Black Minimal Motivation Quote LinkedIn Banner (1).png/
+│   │   │   ├── channels4_profile.jpg/
+│   │   │   ├── Rawscript (1).jpg/
+│   │   │   ├── Rawscript.jpg/
+│   │   │   ├── Rawscript.svg/
+│   │   │   ├── tech find.png/
+│   │   ├── luffy shanks.PNG
+│   │   ├── Text Files/
+│   │   │   ├── DSA-251 By Parikh Jain.xlsx/
+│   │   │   ├── help.txt/
+│   │   │   ├── hentai list .txt/
+│   │   │   ├── important.txt/
+│   │   │   ├── my theory .txt/
+│   │   ├── UI design book by tailwind creator.pdf/
+│   ├── file_tree_generator.py/
+│   ├── my comment.PNG/
+│   ├── pagefile.sys/
+│   ├── Software/
+│   │   ├── Programms/
+│   │   │   ├── 100 Python Practice Problems.pdf/
+│   │   │   ├── cheetsheet/
+│   │   │   │   ├── Backend/
+│   │   │   │   │   ├── Backend.md/
+│   │   │   │   │   ├── Express.md/
+│   │   │   │   │   ├── mongoDB.md/
+│   │   │   │   ├── Js interview question.md/
+│   │   │   │   ├── Languages/
+│   │   │   │   │   ├── c programming.md/
+│   │   │   │   │   ├── Dart.md/
+│   │   │   │   │   ├── GoLang.md/
+│   │   │   │   │   ├── Javascript.md/
+│   │   │   │   │   ├── php.md/
+│   │   │   │   │   ├── python.md/
+│   │   │   │   │   ├── Typescript.md/
+│   │   │   │   ├── one short.md/
+│   │   │   │   ├── PDF/
+│   │   │   │   │   ├── Markdown-CheatSheet.pdf/
+│   │   │   │   │   ├── MERN/
+│   │   │   │   │   ├── Rust.pdf/
+│   │   │   │   │   ├── Threejs-CheatSheet.pdf/
+│   │   │   │   │   ├── VSCode-Shortcuts-CheatSheet.pdf/
+│   │   │   │   ├── React/
+│   │   │   │   │   ├── Next14.md/
+│   │   │   │   │   ├── React Hooks.md/
+│   │   │   │   │   ├── React Native.md/
+│   │   │   │   │   ├── react performence.md/
+│   │   │   │   │   ├── React Router.md/
+│   │   │   │   │   ├── React.md/
+│   │   │   │   │   ├── Redux.md/
+│   │   │   │   ├── vimcommands.md/
+│   │   │   ├── Course/
+│   │   │   │   ├── Chai aur code/
+│   │   │   │   ├── DSA/
+│   │   │   │   │   ├── index.js/
+│   │   │   │   ├── GSAP/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── index.js/
+│   │   │   │   ├── Language/
+│   │   │   │   │   ├── Go lang/
+│   │   │   │   │   ├── html/
+│   │   │   │   │   ├── Java/
+│   │   │   ├── File Structure.txt/
+│   │   │   ├── file_tree_generator.py/
+│   │   │   ├── JS Framework/
+│   │   │   │   ├── index.css/
+│   │   │   │   ├── react-dom.production.min.js/
+│   │   │   │   ├── react.production.min.js/
+│   │   │   │   ├── tailwind.config.js/
+│   │   │   │   ├── tailwind.js/
+│   │   │   │   ├── vue.global.js/
+│   │   │   ├── Laptop.txt/
+│   │   │   ├── polish pixie hld/
+│   │   │   ├── Programms_structure.txt/
+│   │   │   ├── Project/
+│   │   │   │   ├── Buckshot Roulette/
+│   │   │   │   │   ├── Assets/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── index.js/
+│   │   │   │   │   ├── script/
+│   │   │   │   │   ├── style.css/
+│   │   │   │   │   ├── todo.txt/
+│   │   │   │   │   ├── try.html/
+│   │   │   │   ├── Complete/
+│   │   │   │   │   ├── News app/
+│   │   │   │   │   ├── Small Project/
+│   │   │   │   │   ├── YoutubeAddSkipper/
+│   │   │   │   ├── Game changer/
+│   │   │   │   │   ├── .firebase/
+│   │   │   │   │   ├── .firebaserc/
+│   │   │   │   │   ├── .gitignore/
+│   │   │   │   │   ├── 404.html/
+│   │   │   │   │   ├── firebase.json/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── Project 1/
+│   │   │   │   │   ├── Project2/
+│   │   │   │   │   ├── Shery.js/
+│   │   │   │   ├── Half ASS Complete/
+│   │   │   │   │   ├── Beat Looper/
+│   │   │   │   ├── polishpixie/
+│   │   │   │   │   ├── .eslintrc.json/
+│   │   │   │   │   ├── .gitignore/
+│   │   │   │   │   ├── jsconfig.json/
+│   │   │   │   │   ├── next.config.js/
+│   │   │   │   │   ├── package-lock.json/
+│   │   │   │   │   ├── package.json/
+│   │   │   │   │   ├── polish/
+│   │   │   │   │   ├── postcss.config.js/
+│   │   │   │   │   ├── public/
+│   │   │   │   │   ├── README.md/
+│   │   │   │   │   ├── src/
+│   │   │   │   │   ├── tailwind.config.js/
+│   │   │   │   ├── RawScript/
+│   │   │   │   │   ├── .gitignore/
+│   │   │   │   │   ├── code example.txt/
+│   │   │   │   │   ├── code_generators/
+│   │   │   │   │   ├── doc/
+│   │   │   │   │   ├── main.py/
+│   │   │   │   │   ├── README.md/
+│   │   │   │   │   ├── sameple_english_code.txt/
+│   │   │   │   │   ├── Syntax and keywords.md/
+│   │   │   │   │   ├── tokenizer.py/
+│   │   ├── SetUp/
+│   │   │   ├── Basics/
+│   │   │   │   ├── aimp_5.30.2533_w64.exe/
+│   │   │   │   ├── auto install.bat/
+│   │   │   │   ├── ChromeSetup.exe/
+│   │   │   │   ├── dxwebsetup.exe/
+│   │   │   │   ├── Install_Win10_10066_07252023.exe/
+│   │   │   │   ├── memreduct-3.4-setup.exe/
+│   │   │   │   ├── OBS-Studio-30.1-Full-Installer-x64.exe/
+│   │   │   │   ├── Realtek-PCI-E-Gigabit-Ethernet-Controller-Drivers_Y64DT_WIN64_2.43.2015.0709_A00_01.EXE/
+│   │   │   │   ├── SteamSetup.exe/
+│   │   │   │   ├── VC_redist.x64.exe/
+│   │   │   │   ├── VirtualBox-7.0.16-162802-Win.exe/
+│   │   │   │   ├── vlc-3.0.20-win64.exe/
+│   │   │   │   ├── whql-amd-software-adrenalin-edition-24.3.1-win10-win11-mar20-vega-polaris.exe/
+│   │   │   │   ├── winrar-x64-700.exe/
+│   │   │   ├── Coding/
+│   │   │   │   ├── Git-2.42.0.2-64-bit.exe/
+│   │   │   │   ├── GitHubDesktopSetup-x64.exe/
+│   │   │   │   ├── go1.21.4.windows-amd64.msi/
+│   │   │   │   ├── IDE/
+│   │   │   │   │   ├── android-studio-2022.3.1.20-windows.exe/
+│   │   │   │   │   ├── Cursor Setup 0.29.0 - x64.exe/
+│   │   │   │   │   ├── Jett Brains/
+│   │   │   │   │   ├── neovide.msi/
+│   │   │   │   │   ├── nvim-win64.msi/
+│   │   │   │   │   ├── pycharm-community-2024.1.exe/
+│   │   │   │   │   ├── VSCodeUserSetup-x64-1.87.2.exe/
+│   │   │   │   │   ├── VSCodeUserSetup-x64-1.88.0-insider.exe/
+│   │   │   │   ├── mingw-get-setup.exe/
+│   │   │   │   ├── mongodb-windows-x86_64-7.0.2-signed.msi/
+│   │   │   │   ├── mysql-installer-web-community-8.0.34.0.msi/
+│   │   │   │   ├── node-v21.7.1-x64.msi/
+│   │   │   │   ├── python-3.12.2-amd64.exe/
+│   │   │   │   ├── rustup-init.exe/
+│   │   │   │   ├── xampp-windows-x64-8.2.12-0-VS16-installer.exe/
+│   │   │   ├── Games/
+│   │   │   │   ├── 2410 - God of War - Ghost of Sparta (Asia) (En,Zh).iso/
+│   │   │   │   ├── A.Difficult.Game.About.Climbing.Build.13833423.zip/
+│   │   │   │   ├── antimicro-2.24-win64.msi/
+│   │   │   │   ├── Big/
+│   │   │   │   │   ├── Assassins.Creed.zip/
+│   │   │   │   │   ├── cyberpunk/
+│   │   │   │   │   ├── ipcgames.com_Call_of_Duty_Black_Ops_2_SP_MP_ZM.zip/
+│   │   │   │   │   ├── ipcgames.com_DOOM_Eternal.rar/
+│   │   │   │   │   ├── ipcgames.com_JUMP_FORCE_2.rar/
+│   │   │   │   │   ├── ipcgames.com_Sekiro_Shadows_Die_Twice.rar/
+│   │   │   │   │   ├── NieR Automata.iso/
+│   │   │   │   │   ├── Rise of the tom rider/
+│   │   │   │   ├── Done/
+│   │   │   │   │   ├── Install VALORANT.exe/
+│   │   │   │   ├── GDCActual-Windows.zip/
+│   │   │   │   ├── Godot_v4.2.1-stable_win64.exe.zip/
+│   │   │   │   ├── Life is Strange - Episode 1 (Www.ApunKaGames.Net).rar/
+│   │   │   │   ├── PPSSPPSetup.exe/
+│   │   │   │   ├── The Walking Dead - (Www.ApunKaGames.Net).exe/
+│   │   │   ├── idm.6.42.3_with_activator_v3.1.rar/
+│   │   │   ├── MUSIC/
+│   │   │   │   ├── audacity-win-3.4.2-64bit.exe/
+│   │   │   │   ├── flstudio_win64_21.2.3.4004.exe/
+│   │   │   │   ├── _Getintopc.com_Ableton_Live_11_Suite_11.2.11.rar/
+│   │   │   ├── Tools/
+│   │   │   │   ├── filmora_setup_full846.exe/
+│   │   │   │   ├── FlowframesInstaller1.36.0.exe/
+│   │   │   │   ├── MS-Office-LTSC-Pro-Plus-2021-Preview-v2105-Build-14026.20246.zip/
+│   │   │   │   ├── _Getintopc.com_MiniTool_Partition_Wizard_Technician_v11.0.1.rar/
+│   │   │   │   ├── _Getintopc.com_Wondershare_Filmora_12.5.6.3504.rar/
+│   │   │   │   ├── _igetintopc.com_Stellar_Data_Recovery_Professional_9.rar/
+│   │   ├── Software_structure.txt
+

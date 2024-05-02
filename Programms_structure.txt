@@ -1,0 +1,245 @@
+├── Programms/
+│   ├── 100 Python Practice Problems.pdf/
+│   ├── cheetsheet/
+│   │   ├── Backend/
+│   │   │   ├── Backend.md/
+│   │   │   ├── Express.md/
+│   │   │   ├── mongoDB.md/
+│   │   ├── Js interview question.md/
+│   │   ├── Languages/
+│   │   │   ├── c programming.md/
+│   │   │   ├── Dart.md/
+│   │   │   ├── GoLang.md/
+│   │   │   ├── Javascript.md/
+│   │   │   ├── php.md/
+│   │   │   ├── python.md/
+│   │   │   ├── Typescript.md/
+│   │   ├── one short.md/
+│   │   ├── PDF/
+│   │   │   ├── Markdown-CheatSheet.pdf/
+│   │   │   ├── MERN/
+│   │   │   │   ├── API-Guide.pdf/
+│   │   │   │   ├── bibleofjs_by_sheryians.pdf/
+│   │   │   │   ├── Mern-Guide.pdf/
+│   │   │   │   ├── MongoDB-CheatSheet.pdf/
+│   │   │   │   ├── ReactJS-Guide.pdf/
+│   │   │   ├── Rust.pdf/
+│   │   │   ├── Threejs-CheatSheet.pdf/
+│   │   │   ├── VSCode-Shortcuts-CheatSheet.pdf/
+│   │   ├── React/
+│   │   │   ├── Next14.md/
+│   │   │   ├── React Hooks.md/
+│   │   │   ├── React Native.md/
+│   │   │   ├── react performence.md/
+│   │   │   ├── React Router.md/
+│   │   │   ├── React.md/
+│   │   │   ├── Redux.md/
+│   │   ├── vimcommands.md/
+│   ├── Course/
+│   │   ├── Chai aur code/
+│   │   ├── DSA/
+│   │   │   ├── index.js/
+│   │   ├── GSAP/
+│   │   │   ├── index.html/
+│   │   │   ├── index.js/
+│   │   ├── Language/
+│   │   │   ├── Go lang/
+│   │   │   │   ├── go.mod/
+│   │   │   │   ├── main.go/
+│   │   │   ├── html/
+│   │   │   │   ├── solar system.html/
+│   │   │   ├── Java/
+│   │   │   │   ├── OOPs/
+│   │   │   │   │   ├── inheritance.java/
+│   │   │   │   │   ├── oops.java/
+│   │   │   │   │   ├── packages.java/
+│   │   │   │   │   ├── polymorphism.java/
+│   ├── File Structure.txt/
+│   ├── file_tree_generator.py/
+│   ├── JS Framework/
+│   │   ├── index.css/
+│   │   ├── react-dom.production.min.js/
+│   │   ├── react.production.min.js/
+│   │   ├── tailwind.config.js/
+│   │   ├── tailwind.js/
+│   │   ├── vue.global.js/
+│   ├── Laptop.txt/
+│   ├── polish pixie hld/
+│   ├── Programms_structure.txt/
+│   ├── Project/
+│   │   ├── Buckshot Roulette/
+│   │   │   ├── Assets/
+│   │   │   │   ├── blue.jpg/
+│   │   │   │   ├── cigarette.jpg/
+│   │   │   │   ├── close.jpg/
+│   │   │   │   ├── cutter.jpg/
+│   │   │   │   ├── drink.jpg/
+│   │   │   │   ├── game look.jpeg/
+│   │   │   │   ├── handcuffs.jpg/
+│   │   │   │   ├── magnifying lens.jpg/
+│   │   │   │   ├── open.jpg/
+│   │   │   │   ├── red.jpg/
+│   │   │   │   ├── shortgun.jpg/
+│   │   │   ├── index.html/
+│   │   │   ├── index.js/
+│   │   │   ├── script/
+│   │   │   │   ├── index.js/
+│   │   │   ├── style.css/
+│   │   │   ├── todo.txt/
+│   │   │   ├── try.html/
+│   │   ├── Complete/
+│   │   │   ├── News app/
+│   │   │   │   ├── .firebase/
+│   │   │   │   │   ├── hosting..cache/
+│   │   │   │   ├── .firebaserc/
+│   │   │   │   ├── .gitignore/
+│   │   │   │   ├── 404.html/
+│   │   │   │   ├── favicon.ico/
+│   │   │   │   ├── features to push.txt/
+│   │   │   │   ├── firebase-debug.log/
+│   │   │   │   ├── firebase.json/
+│   │   │   │   ├── index.html/
+│   │   │   │   ├── index.js/
+│   │   │   │   ├── logo.png/
+│   │   │   │   ├── styles.css/
+│   │   │   ├── Small Project/
+│   │   │   │   ├── .firebase/
+│   │   │   │   │   ├── hosting..cache/
+│   │   │   │   ├── .firebaserc/
+│   │   │   │   ├── .gitignore/
+│   │   │   │   ├── 404.html/
+│   │   │   │   ├── BMI Calculator/
+│   │   │   │   │   ├── BMI Calculator.html/
+│   │   │   │   ├── Color changer/
+│   │   │   │   │   ├── Flag color changer.html/
+│   │   │   │   ├── firebase.json/
+│   │   │   │   ├── index.html/
+│   │   │   │   ├── Login Page/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   ├── Skeleton Loading/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── watch.jpg/
+│   │   │   │   ├── tailwind.js/
+│   │   │   │   ├── weather-webapp-main/
+│   │   │   │   │   ├── .gitattributes/
+│   │   │   │   │   ├── 404.html/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── style.css/
+│   │   │   │   │   ├── weather app.js/
+│   │   │   │   │   ├── weather-icon.png/
+│   │   │   ├── YoutubeAddSkipper/
+│   │   │   │   ├── content.js/
+│   │   │   │   ├── manifest.json/
+│   │   ├── Game changer/
+│   │   │   ├── .firebase/
+│   │   │   │   ├── hosting..cache/
+│   │   │   ├── .firebaserc/
+│   │   │   ├── .gitignore/
+│   │   │   ├── 404.html/
+│   │   │   ├── firebase.json/
+│   │   │   ├── index.html/
+│   │   │   ├── Project 1/
+│   │   │   │   ├── facebook.svg/
+│   │   │   │   ├── four.jpeg/
+│   │   │   │   ├── index.html/
+│   │   │   │   ├── instagram.svg/
+│   │   │   │   ├── one.jpeg/
+│   │   │   │   ├── three.jpeg/
+│   │   │   │   ├── two.jpeg/
+│   │   │   │   ├── youtube.svg/
+│   │   │   ├── Project2/
+│   │   │   │   ├── Bent Lindberg.webp/
+│   │   │   │   ├── dribbble.svg/
+│   │   │   │   ├── index.html/
+│   │   │   │   ├── instagram.svg/
+│   │   │   │   ├── twitter.svg/
+│   │   │   ├── Shery.js/
+│   │   │   │   ├── Project1/
+│   │   │   │   │   ├── assets/
+│   │   │   │   │   ├── index.html/
+│   │   │   │   │   ├── style.css/
+│   │   │   │   │   ├── tailwind.config.js/
+│   │   │   │   │   ├── tailwind.js/
+│   │   ├── Half ASS Complete/
+│   │   │   ├── Beat Looper/
+│   │   │   │   ├── .firebase/
+│   │   │   │   │   ├── hosting..cache/
+│   │   │   │   ├── .firebaserc/
+│   │   │   │   ├── .gitignore/
+│   │   │   │   ├── 404.html/
+│   │   │   │   ├── firebase.json/
+│   │   │   │   ├── index.html/
+│   │   │   │   ├── index.js/
+│   │   │   │   ├── logo.png/
+│   │   │   │   ├── play-solid.svg/
+│   │   │   │   ├── pre-tracks.png/
+│   │   │   │   ├── style.css/
+│   │   │   │   ├── track.png/
+│   │   │   │   ├── Yamete Kudasai.m4a/
+│   │   ├── polishpixie/
+│   │   │   ├── .eslintrc.json/
+│   │   │   ├── .gitignore/
+│   │   │   ├── jsconfig.json/
+│   │   │   ├── next.config.js/
+│   │   │   ├── package-lock.json/
+│   │   │   ├── package.json/
+│   │   │   ├── polish/
+│   │   │   │   ├── IMG-20240117-WA0002.jpg/
+│   │   │   │   ├── IMG-20240117-WA0003.jpg/
+│   │   │   │   ├── IMG-20240117-WA0004.jpg/
+│   │   │   │   ├── IMG-20240117-WA0005.jpg/
+│   │   │   ├── postcss.config.js/
+│   │   │   ├── public/
+│   │   │   │   ├── images/
+│   │   │   │   │   ├── acrylic_extensions.jpeg/
+│   │   │   │   │   ├── extension_removal.jpeg/
+│   │   │   │   │   ├── feet_power_polish.jpeg/
+│   │   │   │   │   ├── gel_extensions.jpeg/
+│   │   │   │   │   ├── overlay_gel_acrylic.jpeg/
+│   │   │   │   │   ├── permanent_extensions_refill.jpeg/
+│   │   │   │   │   ├── power_polish.jpeg/
+│   │   │   │   │   ├── temporaryextensions.ico/
+│   │   │   │   ├── next.svg/
+│   │   │   │   ├── vercel.svg/
+│   │   │   ├── README.md/
+│   │   │   ├── src/
+│   │   │   │   ├── app/
+│   │   │   │   │   ├── favicon.ico/
+│   │   │   │   │   ├── globals.css/
+│   │   │   │   │   ├── layout.js/
+│   │   │   │   │   ├── page.js/
+│   │   │   │   ├── Components/
+│   │   │   │   │   ├── Services/
+│   │   │   ├── tailwind.config.js/
+│   │   ├── RawScript/
+│   │   │   ├── .gitignore/
+│   │   │   ├── code example.txt/
+│   │   │   ├── code_generators/
+│   │   │   │   ├── go_lang/
+│   │   │   │   │   ├── go_lang_code_generator.py/
+│   │   │   │   │   ├── __pycache__/
+│   │   │   │   ├── javascript/
+│   │   │   │   │   ├── javascript_code_generator.py/
+│   │   │   │   │   ├── __pycache__/
+│   │   │   │   ├── python/
+│   │   │   │   │   ├── basics_code_generators/
+│   │   │   │   │   ├── condition_code_generators/
+│   │   │   │   │   ├── function_code_generators/
+│   │   │   │   │   ├── liberary_code_generators/
+│   │   │   │   │   ├── loop_code_generators/
+│   │   │   │   │   ├── oops_code_generators/
+│   │   │   │   │   ├── python_code_generator.py/
+│   │   │   │   │   ├── variables_code_generators/
+│   │   │   │   │   ├── __pycache__/
+│   │   │   │   ├── rust/
+│   │   │   │   │   ├── rust_code_generator.py/
+│   │   │   │   │   ├── __pycache__/
+│   │   │   ├── doc/
+│   │   │   │   ├── chatgptoutputs.md/
+│   │   │   │   ├── journey.md/
+│   │   │   │   ├── prebuild.md/
+│   │   │   ├── main.py/
+│   │   │   ├── README.md/
+│   │   │   ├── sameple_english_code.txt/
+│   │   │   ├── Syntax and keywords.md/
+│   │   │   ├── tokenizer.py/
